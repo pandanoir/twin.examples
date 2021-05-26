@@ -1,6 +1,0 @@
-{
-  "plugins": [
-    "babel-plugin-macros",
-    ["@babel/transform-react-jsx", { "pragma": "h" }]
-  ]
-}
